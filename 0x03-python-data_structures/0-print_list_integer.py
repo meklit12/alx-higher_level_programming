@@ -1,8 +1,6 @@
 #!/usr/bin/python3
-/*
-* main 
-*/
-
+# main
+# return
 def print_list_integer(my_list=[]):
 
         for x in my_list:
