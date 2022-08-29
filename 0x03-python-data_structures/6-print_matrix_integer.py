@@ -1,7 +1,8 @@
 #!/usr/bin/python3
 """
-print matrix interger
+removes all characters c and C from a string
 """
+
 
 def print_matrix_integer(matrix=[[]]):
     if matrix is None:
