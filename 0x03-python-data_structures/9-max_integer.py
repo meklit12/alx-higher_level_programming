@@ -1,7 +1,8 @@
 #!/usr/bin/python3
 """
-function print matrix integers
+function that display max integer
 """
+
 
 def max_integer(my_list=[]):
 
