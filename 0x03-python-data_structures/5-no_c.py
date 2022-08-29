@@ -5,6 +5,10 @@ removes all characters c and C from a string
 
 
 def no_c(my_string):
-
-    new = [x for x in my_string if x != 'c' and x != 'C']
-    return "".join(new) 
+    new_str = ""
+    for i in range(len(my_string)):
+        if my_string[i] == 'C' or my_string[i] == 'c':
+            pass
+        else:
+            new_str += my_string[i]
+    return new_str
