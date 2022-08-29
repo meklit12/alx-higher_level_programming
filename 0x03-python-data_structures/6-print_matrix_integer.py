@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-removes all characters c and C from a string
+function print matrix integers
 """
 
 
