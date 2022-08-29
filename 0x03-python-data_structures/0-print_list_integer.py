@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-print list integer
+function print matrix integers
 """
 
 
