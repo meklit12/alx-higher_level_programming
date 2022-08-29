@@ -1,7 +1,8 @@
 #!/usr/bin/python3
 """
-devisible by 2
+function that divid a number by two
 """
+
 
 def divisible_by_2(my_list=[]):
 
