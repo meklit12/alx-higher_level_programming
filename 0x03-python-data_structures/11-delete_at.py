@@ -1,5 +1,10 @@
 #!/usr/bin/python3
-"""delete an element at specfic postion"""
+"""
+delete an element at specfic postion
+"""
+
+
+
 
 def delete_at(my_list=[], idx=0):
     if idx >= 0 and idx < len(my_list):
