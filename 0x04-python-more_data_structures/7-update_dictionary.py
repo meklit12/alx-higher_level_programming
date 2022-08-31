@@ -4,6 +4,6 @@
  """
 
 
-def update_dictionary(my_dict, key, value):
-    my_dict[key] = value
-    return my_dict
+def update_dictionary(a_dictionary, key, value):
+    a_dictionary.update({key: value})
+    return a_dictionary
