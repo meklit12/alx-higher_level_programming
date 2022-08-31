@@ -1,7 +1,8 @@
 #!/usr/bin/python3
 """
-add tuple
+function that add tuples
 """
+
 
 def add_tuple(tuple_a=(), tuple_b=()):
 

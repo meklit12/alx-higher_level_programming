@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-copy elements at specfic position
+function print matrix integers
 """
 
 

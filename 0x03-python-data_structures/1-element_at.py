@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-function that retrieves an element from a list like in C
+function print matrix integers
 """
 
 
